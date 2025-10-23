@@ -5,6 +5,13 @@
 
 ---
 
+## 📌 Update 1.1
+- add new sound engine and sound system.
+- improve answer quality.
+- fix some bugs.
+
+---
+
 ## 📘 Overview
 This project is a lightweight, text-based **self-learning chatbot** written in Python.  
 It doesn’t use any AI API or external libraries — instead, it learns directly from your input.  
